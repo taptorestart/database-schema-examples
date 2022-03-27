@@ -1,7 +1,12 @@
 # Django auth and admin
 
+## About
+[Django](https://www.djangoproject.com/) is a high-level Python web framework.
+
+
 ## ER Diagram
-![ER Diagram](screenshots/django_auth_admin_er_diagram.png)
+![ER Diagram](django_auth_admin_er_diagram.png)
+
 
 ## Database Schema
 
