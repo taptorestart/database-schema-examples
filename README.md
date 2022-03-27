@@ -1,5 +1,9 @@
 # Database Schema Examples
 
+## Examples
+- [Django auth and admin](https://github.com/taptorestart/database-schema-examples/blob/main/examples/django_auth_admin/README.md)
+
+
 ## Tools
 
 ### Database Client Programs
