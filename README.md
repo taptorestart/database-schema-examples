@@ -3,6 +3,7 @@
 ## Examples
 - [Django auth and admin](https://github.com/taptorestart/database-schema-examples/blob/main/examples/django_auth_admin/README.md)
 - [Wordpress](https://github.com/taptorestart/database-schema-examples/blob/main/examples/wordpress/README.md)
+- [MariaDB Database Design Example](https://github.com/taptorestart/database-schema-examples/blob/main/examples/mariadb_design_example/README.md)
 
 
 ## Tools
